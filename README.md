@@ -1,7 +1,6 @@
 # SonarQube Cloud CI/CD Integration Workflow
 
-An automated Continuous Integration (CI) static analysis pipeline for a Python micro-application integrated with **SonarQube Cloud** and **GitHub Actions** (Task DEV-779)[cite: 1].
-
+An automated Continuous Integration (CI) static analysis pipeline for a Python micro-application integrated with **SonarQube Cloud** and **GitHub Actions**
 ---
 
 ## Project Overview & Concept
